@@ -1,0 +1,1 @@
+# renovate-sample-github-actions
